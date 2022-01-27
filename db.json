@@ -7,16 +7,10 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Task 2",
-      "day": "Tuesday",
-      "reminder": true
-    },
-    {
-      "text": "Take Test",
-      "day": "Friday",
+      "text": "asf",
+      "day": "asf",
       "reminder": true,
-      "id": 3
+      "id": 2
     }
   ]
 }

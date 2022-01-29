@@ -10,6 +10,8 @@ TODO / Task App. from React Crash Course 2021 (Task Tracker App)
 
 <!-- ![Imgur] -->
 
+![Imgur](https://i.imgur.com/uYvBNHr.png)
+
 ### 🏗️ Built With
 
 -   React
